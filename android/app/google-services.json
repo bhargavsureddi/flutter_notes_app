@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550863325842",
+    "project_id": "notes-app-51e87",
+    "storage_bucket": "notes-app-51e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550863325842:android:4271f228f6dc5aba19744b",
+        "android_client_info": {
+          "package_name": "com.bax.my_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550863325842-fdas3puodricc904rcbigtsl7vp3q4ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzpPCRkNnb1eMH9t2yOqhXa7EwahBMOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550863325842-fdas3puodricc904rcbigtsl7vp3q4ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
